@@ -17,3 +17,5 @@ First, the mySQL database needs to be created and running.
 p.s. 
 I couldnt figure out Inquirer Validation (to confirm a number was entered, and that there was enough in the Current Stock to fullfill the order) or how to exit the program at the end; 
 but everything else is legitimate, even though the decimal place gets length sometimes when Cart Total is calculated.
+
+![](bamazon_walkthrough.gif)
